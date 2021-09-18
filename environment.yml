@@ -1,0 +1,15 @@
+name: HeterodyneAsteroseismology
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - celerite2
+  - astropy
+  - pymc3
+  - arviz
+  - seaborn
+  - python=3
+  - scipy
+  - jupyterlab
+  - numpy
+prefix: /Users/wfarr/miniconda3/envs/HeterodyneAsteroseismology
