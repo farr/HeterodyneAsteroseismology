@@ -12,4 +12,5 @@ dependencies:
   - scipy
   - jupyterlab
   - numpy
+  - aesara-theano-fallback
 prefix: /Users/wfarr/miniconda3/envs/HeterodyneAsteroseismology
