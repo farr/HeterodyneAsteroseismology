@@ -1,0 +1,1 @@
+The file `Aldebaran_2017-02-27T1006.txt` comes from https://ui.adsabs.harvard.edu/abs/2021arXiv210902728C/abstract that is part of the data released from [Farr, et al. (2018)](http://doi.org/10.3847/2041-8213/aadfde).
