@@ -3,7 +3,6 @@ channels:
   - conda-forge
   - defaults
 dependencies:
-  - celerite2
   - astropy
   - pymc3
   - arviz
@@ -13,4 +12,14 @@ dependencies:
   - jupyterlab
   - numpy
   - aesara-theano-fallback
+  - pip
+  - pandas
+  - theano
+  - mkl
+  - mkl-service
+  - nodejs
+  - pytest
+  - pip:
+    - pymc3-ext
+    - celerite2[theano]
 prefix: /Users/wfarr/miniconda3/envs/HeterodyneAsteroseismology
